@@ -4,3 +4,12 @@
 [submodule "pedido-receiver-service"]
 	path = pedido-receiver-service
 	url = https://github.com/amouraorr/pedido-receiver-service.git
+[submodule "estoque-service"]
+	path = estoque-service
+	url = https://github.com/amouraorr/estoque-service.git
+[submodule "cliente-service"]
+	path = cliente-service
+	url = https://github.com/amouraorr/cliente-service.git
+[submodule "pagamento-service"]
+	path = pagamento-service
+	url = https://github.com/amouraorr/pagamento-service.git
