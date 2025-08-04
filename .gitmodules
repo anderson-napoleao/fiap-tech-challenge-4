@@ -18,3 +18,7 @@
 	path = pagamento-service
 	url = https://github.com/amouraorr/pagamento-service.git
 	branch = impl-01
+[submodule "pedido-service"]
+	path = pedido-service
+	url = https://github.com/amouraorr/pedido-service.git
+    branch = impl-01
