@@ -1,24 +1,24 @@
 [submodule "produto-service"]
 	path = produto-service
 	url = https://github.com/amouraorr/produto-service.git
-	branch = impl-01
+	branch = impl-03
 [submodule "pedido-receiver-service"]
 	path = pedido-receiver-service
 	url = https://github.com/amouraorr/pedido-receiver-service.git
-	branch = impl-01
+	branch = impl-03
 [submodule "estoque-service"]
 	path = estoque-service
 	url = https://github.com/amouraorr/estoque-service.git
-	branch = impl-01
+	branch = impl-03
 [submodule "cliente-service"]
 	path = cliente-service
 	url = https://github.com/amouraorr/cliente-service.git
-	branch = impl-01
+	branch = impl-03
 [submodule "pagamento-service"]
 	path = pagamento-service
 	url = https://github.com/amouraorr/pagamento-service.git
-	branch = impl-01
+	branch = impl-03
 [submodule "pedido-service"]
 	path = pedido-service
 	url = https://github.com/amouraorr/pedido-service.git
-    branch = impl-01
+    branch = impl-03

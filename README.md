@@ -8,6 +8,9 @@ git clone https://github.com/anderson-napoleao/fiap-tech-challenge-4.git
 navegar para o diretorio criado:  
 cd fiap-tech-challenge-4
 
+checkout na branch impl-03:  
+git checkout -b impl-03
+
 atualizar a branch de cada submódulo, como configurado no arquivo .gitmodules:  
 git submodule update --init --remote
 
